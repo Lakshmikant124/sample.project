@@ -4,3 +4,4 @@ for i in range(a):
 b = int(input())
 print(b)
 print(a+b)
+
