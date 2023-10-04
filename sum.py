@@ -1,3 +1,3 @@
 a = int(input())
 for i in range(a):
-    print(i * i)
+    print("squre number of {} is : {}".format(i,i*i))
